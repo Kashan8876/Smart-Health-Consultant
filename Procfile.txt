@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Smart_Health_Consultant.py
+web: sh Setup.sh && streamlit run Smart_Health_Consultant.py
