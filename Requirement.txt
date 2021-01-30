@@ -1,2 +1,5 @@
 streamlit     
 opencv-contrib-python-headless
+Flask==1.1.1
+numpy>=1.9.2
+pandas>=0.19
