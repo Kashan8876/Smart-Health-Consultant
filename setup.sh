@@ -6,7 +6,7 @@ echo “\
 
 headless = true\n\
 
-port = $PORT\n\
+port = 8501\n\
 
 enableCORS = false\n\
 
