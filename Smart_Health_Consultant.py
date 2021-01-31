@@ -1,7 +1,6 @@
 import pickle
 import streamlit as st
 from flask import request
-#from sklearn.ensemble import RandomForestClassifier
 with open('Random_Forest.pickle','rb') as f:
     clf = pickle.load(f)
 
